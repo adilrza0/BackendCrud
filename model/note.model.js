@@ -1,7 +1,7 @@
 const { default: mongoose } = require("mongoose");
 
 const noteSchema=mongoose.Schema({
-    titel:String,
+    title:String,
     body:String,
     username:String,
     userId:String
