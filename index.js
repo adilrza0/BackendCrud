@@ -1,15 +1,15 @@
 const express=require("express")
 const connection = require("./db")
 const { userRouter } = require("./Route/user.route")
-const { noteRouter } = require("./Route/note.route")\
+const { noteRouter } = require("./Route/note.route")
 const cors=require("cors")
 require("dotenv").config()
 
 const app=express()
 
-
-app.use(express.json())
 app.use(cors())
+app.use(express.json())
+
 
 app.get("/",(req,res)=>{
     res.send("send")
