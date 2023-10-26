@@ -1,0 +1,674 @@
+[
+    {
+      "id": "1",
+      "name": "Introduction to Web Development",
+      "duration": "6 weeks",
+      "price": "$99",
+      "image": "https://stiffentechnologies.com/wp-content/uploads/2021/11/Web-Development.jpg",
+      "category": "Web Development",
+      "description": "Learn the basics of web development, including HTML, CSS, and JavaScript.",
+      "reviews": [
+        {
+          "user": "JohnDoe123",
+          "rating": 4.5,
+          "comment": "Great course! I learned a lot and the instructor was excellent."
+        },
+        {
+          "user": "JaneSmith456",
+          "rating": 5,
+          "comment": "Highly recommended! The course content is well-organized and easy to follow."
+        }
+      ],
+      "hoursPerWeek": 10,
+      "language": "English",
+      "teacher": {
+        "name": "John Smith",
+        "bio": "John Smith is an experienced web developer with a passion for teaching.",
+        "qualifications": "Bachelor's degree in Computer Science"
+      }
+    },
+    {
+      "id": "2",
+      "name": "Python for Beginners",
+      "image": "https://m.media-amazon.com/images/I/41hWLzgKJgL._SY346_.jpg",
+      "duration": "4 weeks",
+      "price": "$79",
+      "category": "Programming",
+      "description": "Learn the fundamentals of Python programming language from scratch.",
+      "reviews": [
+        {
+          "user": "CoderGirl99",
+          "rating": 4.2,
+          "comment": "Really enjoyed the course! It's a great starting point for beginners."
+        },
+        {
+          "user": "CodeMaster2000",
+          "rating": 4.8,
+          "comment": "Excellent course! The explanations were clear and concise."
+        }
+      ],
+      "hoursPerWeek": 8,
+      "language": "English",
+      "teacher": {
+        "name": "Alice Johnson",
+        "bio": "Alice is a Python expert and has been teaching programming for 10 years.",
+        "qualifications": "Master's degree in Computer Science"
+      }
+    },
+    {
+      "id": "3",
+      "name": "Data Science with R",
+      "image": "https://nareshit.com/wp-content/uploads/2018/09/Data-science-with-r-language-nareshit.jpg",
+      "duration": "10 weeks",
+      "price": "$149",
+      "category": "Data Science",
+      "description": "Explore data science techniques using the R programming language.",
+      "reviews": [
+        {
+          "user": "DataNinja101",
+          "rating": 4.7,
+          "comment": "Very comprehensive course! It covers various data analysis tools."
+        },
+        {
+          "user": "StatsGeek22",
+          "rating": 4.9,
+          "comment": "Excellent course! The assignments were challenging and rewarding."
+        }
+      ],
+      "hoursPerWeek": 12,
+      "language": "English",
+      "teacher": {
+        "name": "Emily Davis",
+        "bio": "Emily is a data scientist with a focus on statistical analysis.",
+        "qualifications": "Ph.D. in Statistics"
+      }
+    },
+    {
+      "id": "4",
+      "name": "Android App Development",
+      "image": "https://cdn-dbghh.nitrocdn.com/QebVtDaNFCEeCVKUoJXTUOHxlyingHVa/assets/images/optimized/rev-7e033fe/www.minddigital.com/wp-content/uploads/2020/01/ANDROID-APP-DEVELOPMENT-WITH-MIND-DIGITAL.png",
+      "duration": "8 weeks",
+      "price": "$129",
+      "category": "Mobile Development",
+      "description": "Learn how to build Android apps from scratch using Java and Android Studio.",
+      "reviews": [
+        {
+          "user": "AppDevGuru",
+          "rating": 4.6,
+          "comment": "Great course for beginners! The instructor explains everything clearly."
+        },
+        {
+          "user": "MobileDevEnthusiast",
+          "rating": 4.8,
+          "comment": "I enjoyed building my first Android app! The projects were fun."
+        }
+      ],
+      "hoursPerWeek": 10,
+      "language": "English",
+      "teacher": {
+        "name": "Michael Johnson",
+        "bio": "Michael is an experienced Android developer with several published apps.",
+        "qualifications": "Bachelor's degree in Computer Engineering"
+      }
+    },
+    {
+      "id": "5",
+      "name": "Machine Learning Fundamentals",
+      "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*cG6U1qstYDijh9bPL42e-Q.jpeg",
+      "duration": "12 weeks",
+      "price": "$199",
+      "category": "Artificial Intelligence",
+      "description": "Explore the core concepts of machine learning and its applications.",
+      "reviews": [
+        {
+          "user": "MLNewbie007",
+          "rating": 4.4,
+          "comment": "The course provides a solid foundation in machine learning."
+        },
+        {
+          "user": "AIEnthusiast42",
+          "rating": 4.9,
+          "comment": "Excellent course! It dives into practical machine learning techniques."
+        }
+      ],
+      "hoursPerWeek": 15,
+      "language": "English",
+      "teacher": {
+        "name": "Sarah Roberts",
+        "bio": "Sarah is an AI researcher and has published papers in the field.",
+        "qualifications": "Ph.D. in Artificial Intelligence"
+      }
+    },
+    {
+      "id": "6",
+      "name": "JavaScript Advanced Concepts",
+      "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YRnoderL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pgmrb1fiejcktpgdre34.jpeg",
+      "duration": "8 weeks",
+      "price": "$129",
+      "category": "Web Development",
+      "description": "Master advanced JavaScript concepts such as closures, promises, and async/await.",
+      "reviews": [
+        {
+          "user": "JSNinja2000",
+          "rating": 4.7,
+          "comment": "An in-depth course for JavaScript enthusiasts! I loved it."
+        },
+        {
+          "user": "CodeWiz99",
+          "rating": 4.9,
+          "comment": "This course helped me understand complex JS concepts better."
+        }
+      ],
+      "hoursPerWeek": 12,
+      "language": "English",
+      "teacher": {
+        "name": "David Thompson",
+        "bio": "David is a seasoned web developer with a passion for JavaScript.",
+        "qualifications": "Bachelor's degree in Computer Science"
+      }
+    },
+    {
+      "id": "7",
+      "name": "Introduction to Artificial Intelligence",
+      "image": "https://www.slideteam.net/media/catalog/product/cache/1280x720/i/n/introduction_to_artificial_intelligence_powerpoint_presentation__Slide01.jpg",
+      "duration": "6 weeks",
+      "price": "$89",
+      "category": "Artificial Intelligence",
+      "description": "Get started with the fundamentals of AI and its real-world applications.",
+      "reviews": [
+        {
+          "user": "AIExplorer123",
+          "rating": 4.5,
+          "comment": "A great introductory course for anyone curious about AI."
+        },
+        {
+          "user": "DataGeek22",
+          "rating": 4.8,
+          "comment": "The course provides a good balance of theory and practical examples."
+        }
+      ],
+      "hoursPerWeek": 8,
+      "language": "English",
+      "teacher": {
+        "name": "Sophia Lee",
+        "bio": "Sophia is an AI researcher and has worked on various AI projects.",
+        "qualifications": "Ph.D. in Computer Science specializing in AI"
+      }
+    },
+    {
+      "id": "8",
+      "name": "Graphic Design Fundamentals",
+      "image": "https://i0.wp.com/www.zekagraphic.com/wp-content/uploads/2021/03/Graphic-Design-Fundamentals-Guide-2021.jpg?resize=1536%2C864&ssl=1",
+      "duration": "8 weeks",
+      "price": "$119",
+      "category": "Design",
+      "description": "Learn the basics of graphic design and create stunning visuals.",
+      "reviews": [
+        {
+          "user": "DesignEnthusiast87",
+          "rating": 4.6,
+          "comment": "I loved the creative projects and the instructor's guidance."
+        },
+        {
+          "user": "ArtisticMind22",
+          "rating": 4.9,
+          "comment": "The course taught me how to think like a designer."
+        }
+      ],
+      "hoursPerWeek": 10,
+      "language": "English",
+      "teacher": {
+        "name": "Emma Johnson",
+        "bio": "Emma is a talented graphic designer with experience in multiple design tools.",
+        "qualifications": "Bachelor's degree in Visual Communication"
+      }
+    },
+    {
+      "id": "9",
+      "name": "Mobile App UX/UI Design",
+      "image": "https://mituniversityindia.edu.in/executive-programs/wp-content/uploads/2023/05/Picture2.jpg",
+      "duration": "6 weeks",
+      "price": "$99",
+      "category": "Design",
+      "description": "Design user-friendly mobile app interfaces for a seamless user experience.",
+      "reviews": [
+        {
+          "user": "UXMaster2000",
+          "rating": 4.8,
+          "comment": "The course covered the essentials of mobile app design."
+        },
+        {
+          "user": "MobileDesignPro",
+          "rating": 4.7,
+          "comment": "Great examples and practical exercises to improve app design skills."
+        }
+      ],
+      "hoursPerWeek": 8,
+      "language": "English",
+      "teacher": {
+        "name": "Alex Hernandez",
+        "bio": "Alex is a UX/UI designer with a focus on mobile app design.",
+        "qualifications": "Bachelor's degree in Interaction Design"
+      }
+    },
+    {
+      "id": "10",
+      "name": "Digital Marketing Strategies",
+      "image": "https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/12/digital-marketing-strategies.jpg",
+      "duration": "10 weeks",
+      "price": "$149",
+      "category": "Marketing",
+      "description": "Explore effective digital marketing strategies and tools to boost businesses.",
+      "reviews": [
+        {
+          "user": "MarketingWhiz123",
+          "rating": 4.9,
+          "comment": "The course provided valuable insights for digital marketing success."
+        },
+        {
+          "user": "SocialMediaExpert",
+          "rating": 5,
+          "comment": "I learned how to leverage social media for marketing campaigns."
+        }
+      ],
+      "hoursPerWeek": 12,
+      "language": "English",
+      "teacher": {
+        "name": "Mark Turner",
+        "bio": "Mark is a seasoned digital marketer with experience in various industries.",
+        "qualifications": "Master's degree in Marketing"
+      }
+    },
+    {
+      "id": "11",
+      "name": "Photography Masterclass",
+      "image": "https://m.media-amazon.com/images/I/71DqzozS41L._RI_SX480_FMwebp_.jpg",
+      "duration": "8 weeks",
+      "price": "$109",
+      "category": "Photography",
+      "description": "Enhance your photography skills and capture stunning images.",
+      "reviews": [
+        {
+          "user": "PhotoLover98",
+          "rating": 4.7,
+          "comment": "The course improved my photography techniques significantly."
+        },
+        {
+          "user": "ShutterBug2000",
+          "rating": 4.8,
+          "comment": "I enjoyed the photo assignments and received valuable feedback."
+        }
+      ],
+      "hoursPerWeek": 10,
+      "language": "English",
+      "teacher": {
+        "name": "Sarah Adams",
+        "bio": "Sarah is an accomplished photographer with a passion for teaching.",
+        "qualifications": "Professional photographer with several awards."
+      }
+    },
+    {
+      "id": "12",
+      "name": "Business Finance Basics",
+      "image": "https://ordnur.com/wp-content/uploads/2023/01/Finance-Fundamentals-for-Small-Business-Success-1024x910.webp",
+      "duration": "6 weeks",
+      "price": "$89",
+      "category": "Business",
+      "description": "Learn the essentials of business finance and financial management.",
+      "reviews": [
+        {
+          "user": "FinancePro22",
+          "rating": 4.5,
+          "comment": "A solid course for understanding business finance."
+        },
+        {
+          "user": "Entrepreneur101",
+          "rating": 4.7,
+          "comment": "Practical examples made complex financial concepts easier to grasp."
+        }
+      ],
+      "hoursPerWeek": 8,
+      "language": "English",
+      "teacher": {
+        "name": "Michael Brown",
+        "bio": "Michael is a financial expert with experience in consulting and advising.",
+        "qualifications": "Master's degree in Finance"
+      }
+    },
+    {
+      "id": "13",
+      "name": "Digital Marketing Strategies",
+      "image": "https://lh6.googleusercontent.com/gmj1iVMyeZ86D1NapnOxH1E_IWb274F4yc3AbMBo6P6Xe1olSPUTvrRC8nKhH5hDroJVpVwVaczwXtqsjqWlYQOGf4tIBG8cOZCEwbO61e4w_9fKNUcJ5rLCDFZmemm_mG51nq_Z",
+      "duration": "10 weeks",
+      "price": "$149",
+      "category": "Marketing",
+      "description": "Explore effective digital marketing strategies and tools to boost businesses.",
+      "reviews": [
+        {
+          "user": "MarketingWhiz123",
+          "rating": 4.9,
+          "comment": "The course provided valuable insights for digital marketing success."
+        },
+        {
+          "user": "SocialMediaExpert",
+          "rating": 5,
+          "comment": "I learned how to leverage social media for marketing campaigns."
+        }
+      ],
+      "hoursPerWeek": 12,
+      "language": "English",
+      "teacher": {
+        "name": "Mark Turner",
+        "bio": "Mark is a seasoned digital marketer with experience in various industries.",
+        "qualifications": "Master's degree in Marketing"
+      }
+    },
+    {
+      "id": "14",
+      "name": "Photography Masterclass",
+      "image": "https://m.media-amazon.com/images/I/71DqzozS41L._RI_SX480_FMwebp_.jpg",
+      "duration": "8 weeks",
+      "price": "$109",
+      "category": "Photography",
+      "description": "Enhance your photography skills and capture stunning images.",
+      "reviews": [
+        {
+          "user": "PhotoLover98",
+          "rating": 4.7,
+          "comment": "The course improved my photography techniques significantly."
+        },
+        {
+          "user": "ShutterBug2000",
+          "rating": 4.8,
+          "comment": "I enjoyed the photo assignments and received valuable feedback."
+        }
+      ],
+      "hoursPerWeek": 10,
+      "language": "English",
+      "teacher": {
+        "name": "Sarah Adams",
+        "bio": "Sarah is an accomplished photographer with a passion for teaching.",
+        "qualifications": "Professional photographer with several awards."
+      }
+    },
+    {
+      "id": "15",
+      "name": "Introduction to Machine Learning",
+      "image": "https://community-cdn-digitalocean-com.global.ssl.fastly.net/fR1fwLvJDeYDMNenxu3XokLs",
+      "duration": "6 weeks",
+      "price": "$99",
+      "category": "Data Science",
+      "description": "An introduction to the principles and algorithms of machine learning.",
+      "reviews": [
+        {
+          "user": "MLNovice123",
+          "rating": 4.5,
+          "comment": "Clear explanations and practical exercises helped me grasp ML concepts."
+        },
+        {
+          "user": "DataExplorer007",
+          "rating": 4.8,
+          "comment": "Great course for starting the journey into the world of ML."
+        }
+      ],
+      "hoursPerWeek": 8,
+      "language": "English",
+      "teacher": {
+        "name": "Jason Lee",
+        "bio": "Jason is a data scientist with expertise in machine learning applications.",
+        "qualifications": "Ph.D. in Computer Science"
+      }
+    },
+    {
+      "id": "16",
+      "name": "Advanced Excel Techniques",
+      "image": "https://prutor.ai/wp-content/uploads/advance-excel-techniques-hindi-p.jpg",
+      "duration": "4 weeks",
+      "price": "$79",
+      "category": "Business",
+      "description": "Learn advanced Excel functions and data analysis techniques.",
+      "reviews": [
+        {
+          "user": "ExcelPro99",
+          "rating": 4.7,
+          "comment": "This course expanded my Excel skills beyond the basics."
+        },
+        {
+          "user": "DataGuru2000",
+          "rating": 4.9,
+          "comment": "The course was well-structured and covered advanced Excel features."
+        }
+      ],
+      "hoursPerWeek": 6,
+      "language": "English",
+      "teacher": {
+        "name": "Lisa Johnson",
+        "bio": "Lisa is a data analyst with expertise in Excel and data manipulation.",
+        "qualifications": "Bachelor's degree in Business Analytics"
+      }
+    },
+    {
+      "id": "17",
+      "name": "Introduction to Artificial Neural Networks",
+      "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*KiShjRpqKOq6rV2U85A_qA.jpeg",
+      "duration": "8 weeks",
+      "price": "$119",
+      "category": "Artificial Intelligence",
+      "description": "Explore the fundamentals of artificial neural networks and deep learning.",
+      "reviews": [
+        {
+          "user": "NeuralNetEnthusiast",
+          "rating": 4.6,
+          "comment": "The course provided a solid introduction to neural networks."
+        },
+        {
+          "user": "DeepLearning101",
+          "rating": 4.8,
+          "comment": "I enjoyed building neural network models and understanding their workings."
+        }
+      ],
+      "hoursPerWeek": 10,
+      "language": "English",
+      "teacher": {
+        "name": "Alexandra Roberts",
+        "bio": "Alexandra is an AI researcher with expertise in deep learning.",
+        "qualifications": "Ph.D. in Computer Science"
+      }
+    },
+    {
+      "id": "18",
+      "name": "Data Analysis with Python",
+      "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230510174745/Data-Analysis-with-Python.webp",
+      "duration": "6 weeks",
+      "price": "$99",
+      "category": "Data Science",
+      "description": "Learn data analysis techniques using Python and popular libraries.",
+      "reviews": [
+        {
+          "user": "PythonDataPro",
+          "rating": 4.7,
+          "comment": "The course provided practical examples for data analysis."
+        },
+        {
+          "user": "DataExplorer3000",
+          "rating": 4.9,
+          "comment": "This course improved my data analysis skills with Python."
+        }
+      ],
+      "hoursPerWeek": 8,
+      "language": "English",
+      "teacher": {
+        "name": "Robert Davis",
+        "bio": "Robert is a data scientist with expertise in Python and data analytics.",
+        "qualifications": "Master's degree in Data Science"
+      }
+    },
+    {
+      "id": "19",
+      "name": "Front-End Web Development",
+      "image": "https://dz8fbjd9gwp2s.cloudfront.net/courses/5f5338c60cf2d7d974471146/5f5338c60cf2d7d974471146_scaled_cover.jpg?v=1",
+      "duration": "10 weeks",
+      "price": "$129",
+      "category": "Web Development",
+      "description": "Learn front-end web development using HTML, CSS, and JavaScript.",
+      "reviews": [
+        {
+          "user": "WebDevEnthusiast99",
+          "rating": 4.8,
+          "comment": "A comprehensive course for aspiring front-end developers."
+        },
+        {
+          "user": "CodeNinja2000",
+          "rating": 4.9,
+          "comment": "I built real projects and improved my front-end skills."
+        }
+      ],
+      "hoursPerWeek": 12,
+      "language": "English",
+      "teacher": {
+        "name": "Emily Cooper",
+        "bio": "Emily is a web developer with experience in front-end technologies.",
+        "qualifications": "Bachelor's degree in Computer Science"
+      }
+    },
+    {
+      "id": "20",
+      "name": "Introduction to Digital Illustration",
+      "image": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2020/08/Digital_drawing_apps_jpg_cR7Qb64X-700x410.jpg?auto=format&q=60&fit=max&w=930",
+      "duration": "6 weeks",
+      "price": "$89",
+      "category": "Design",
+      "description": "Learn digital illustration techniques and create stunning artworks.",
+      "reviews": [
+        {
+          "user": "IllustrationLover22",
+          "rating": 4.7,
+          "comment": "The course helped me transition from traditional to digital art."
+        },
+        {
+          "user": "ArtisticMind456",
+          "rating": 4.8,
+          "comment": "I enjoyed the creative assignments and learned new illustration tools."
+        }
+      ],
+      "hoursPerWeek": 8,
+      "language": "English",
+      "teacher": {
+        "name": "Jennifer White",
+        "bio": "Jennifer is an illustrator and digital artist with a passion for teaching.",
+        "qualifications": "Bachelor's degree in Fine Arts"
+      }
+    },
+    {
+      "id": "21",
+      "name": "iOS App UI/UX Design",
+      "image": "https://ordnur.com/wp-content/uploads/2023/01/Finance-Fundamentals-for-Small-Business-Success-1024x910.webp",
+      "duration": "6 weeks",
+      "price": "$99",
+      "category": "Design",
+      "description": "Design intuitive and user-friendly interfaces for iOS apps.",
+      "reviews": [
+        {
+          "user": "iOSDesigner2000",
+          "rating": 4.6,
+          "comment": "The course focused on practical app design principles for iOS."
+        },
+        {
+          "user": "AppDesignEnthusiast",
+          "rating": 4.9,
+          "comment": "I learned how to create visually appealing app interfaces."
+        }
+      ],
+      "hoursPerWeek": 8,
+      "language": "English",
+      "teacher": {
+        "name": "Sophie Miller",
+        "bio": "Sophie is a UI/UX designer specializing in iOS app design.",
+        "qualifications": "Bachelor's degree in Interaction Design"
+      }
+    },
+    {
+      "id": "22",
+      "name": "Data Engineering Fundamentals",
+      "image": "https://xebia.com/wp-content/uploads/2023/01/2022-12-06-fundamentals-of-data-engineering-cover-1.jpeg.webp",
+      "duration": "8 weeks",
+      "price": "$119",
+      "category": "Data Science",
+      "description": "Explore the essential concepts of data engineering and data pipelines.",
+      "reviews": [
+        {
+          "user": "DataEngExpert99",
+          "rating": 4.7,
+          "comment": "The course covered key data engineering principles and best practices."
+        },
+        {
+          "user": "DataPipelinePro",
+          "rating": 4.8,
+          "comment": "I enjoyed building data pipelines using real-world datasets."
+        }
+      ],
+      "hoursPerWeek": 10,
+      "language": "English",
+      "teacher": {
+        "name": "Andrew Williams",
+        "bio": "Andrew is a data engineer with experience in building scalable data systems.",
+        "qualifications": "Master's degree in Computer Engineering"
+      }
+    },
+    {
+      "id": "23",
+      "name": "Java Programming for Beginners",
+      "image": "https://prepbytes-misc-images.s3.ap-south-1.amazonaws.com/assets/1646214912892-B_366-50-Java.png",
+      "duration": "6 weeks",
+      "price": "$89",
+      "category": "Programming",
+      "description": "Learn Java programming from scratch and build simple applications.",
+      "reviews": [
+        {
+          "user": "JavaNewbie123",
+          "rating": 4.5,
+          "comment": "A good introductory course for Java beginners."
+        },
+        {
+          "user": "CodeJavaPro",
+          "rating": 4.8,
+          "comment": "I found the hands-on coding exercises very helpful."
+        }
+      ],
+      "hoursPerWeek": 8,
+      "language": "English",
+      "teacher": {
+        "name": "David Wilson",
+        "bio": "David is a Java developer with a passion for teaching programming.",
+        "qualifications": "Bachelor's degree in Computer Science"
+      }
+    },
+    {
+      "id": "24",
+      "name": "Data Visualization with Tableau",
+      "image": "https://cdn.educba.com/academy/wp-content/uploads/2016/05/data-visualization-with-tableau.jpg",
+      "duration": "8 weeks",
+      "price": "$129",
+      "category": "Data Science",
+      "description": "Create interactive data visualizations using Tableau software.",
+      "reviews": [
+        {
+          "user": "DataVizPro22",
+          "rating": 4.7,
+          "comment": "The course provided practical skills for effective data visualization."
+        },
+        {
+          "user": "TableauLover2000",
+          "rating": 4.9,
+          "comment": "I enjoyed exploring Tableau's features and building dashboards."
+        }
+      ],
+      "hoursPerWeek": 10,
+      "language": "English",
+      "teacher": {
+        "name": "Rachel Green",
+        "bio": "Rachel is a data analyst with expertise in Tableau and data visualization.",
+        "qualifications": "Bachelor's degree in Business Analytics"
+      }
+    }
+  ]
